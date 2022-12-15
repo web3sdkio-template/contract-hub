@@ -33,7 +33,7 @@ export default function SignatureDrop() {
           <p>
             <a
               className={styles.lightPurple}
-              href="https://portal.web3sdk.io/pre-built-contracts/signature-drop"
+              href="https://docs.web3sdk.io/pre-built-contracts/signature-drop"
             >
               Check out the documentation here.
             </a>

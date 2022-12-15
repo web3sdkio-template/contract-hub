@@ -33,7 +33,7 @@ export default function NFTCollection() {
           <p>
             <a
               className={styles.lightPurple}
-              href="https://portal.web3sdk.io/pre-built-contracts/nft-collection"
+              href="https://docs.web3sdk.io/pre-built-contracts/nft-collection"
             >
               Check out the documentation here.
             </a>

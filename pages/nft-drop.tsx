@@ -27,7 +27,7 @@ export default function NFTDrop() {
           <p>
             <a
               className={styles.lightPurple}
-              href="https://portal.web3sdk.io/pre-built-contracts/nft-drop"
+              href="https://docs.web3sdk.io/pre-built-contracts/nft-drop"
             >
               Check out the documentation here.
             </a>

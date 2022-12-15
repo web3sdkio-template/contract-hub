@@ -48,7 +48,7 @@ const Home: NextPage = () => {
         <a
           className={`${styles.mainButton} ${styles.bigSpacerTop} ${styles.noUnderline}`}
           role="button"
-          href="https://portal.web3sdk.io/"
+          href="https://docs.web3sdk.io/"
           target="_blank"
           rel="noopener noreferrer"
         >

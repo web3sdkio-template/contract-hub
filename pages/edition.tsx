@@ -31,7 +31,7 @@ export default function Edition() {
           <p>
             <a
               className={styles.lightPurple}
-              href="https://portal.web3sdk.io/pre-built-contracts/edition"
+              href="https://docs.web3sdk.io/pre-built-contracts/edition"
             >
               Check out the documentation here.
             </a>

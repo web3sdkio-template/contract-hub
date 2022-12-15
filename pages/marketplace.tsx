@@ -36,7 +36,7 @@ export default function Marketplace() {
           <p>
             <a
               className={styles.lightPurple}
-              href="https://portal.web3sdk.io/pre-built-contracts/marketplace"
+              href="https://docs.web3sdk.io/pre-built-contracts/marketplace"
             >
               Check out the documentation here.
             </a>

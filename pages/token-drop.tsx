@@ -28,7 +28,7 @@ export default function TokenDrop() {
           <p>
             <a
               className={styles.lightPurple}
-              href="https://portal.web3sdk.io/pre-built-contracts/token-drop"
+              href="https://docs.web3sdk.io/pre-built-contracts/token-drop"
             >
               Check out the documentation here.
             </a>
